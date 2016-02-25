@@ -23,3 +23,6 @@ Then go to `http://localhost:3000` on browser
 * [Website of Express](http://expressjs.com/) - [Docs - v4.x](http://expressjs.com/en/4x/api.html)
 * [Website of PubNub](https://www.pubnub.com/) - [Docs](https://www.pubnub.com/documentation/)
 * [Website of Jade](http://jade-lang.com/) - [Docs](http://jade-lang.com/reference/)
+
+## Credits
+An original project of [Tomomi ❤ Imura](https://github.com/girliemac)
